@@ -1,0 +1,13 @@
+body{
+    width: 93vw;
+    height: 93vw;
+    margin: auto;
+}
+.Square1{
+    width: 28.4vw;
+    height: 28.4vw;
+    background-color: gold;
+    margin:1.3vw;
+    float: left;
+    border-radius: 3vw;/*圆角*/
+}
